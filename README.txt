@@ -1,3 +1,6 @@
+Se você está procurando a beta mais recente, confira esse link: / If you're looking for the latest beta, check out this link:
+https://github.com/JhosOnwer/Catsports/releases/tag/06.12.24
+
 Portugês Brasil:
 Catsports é um jogo que envolve dos mais variados esportes, personagens e muito mais.
 Programo esse jogo desde maio de 2024, mas só publiquei aqui no Github em novembro de 2024.
