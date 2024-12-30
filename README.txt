@@ -1,5 +1,5 @@
 Se você está procurando a beta mais recente, confira esse link: / If you're looking for the latest beta, check out this link:
-https://github.com/JhosOnwer/Catsports/releases/tag/24.12.24
+https://github.com/JhosOnwer/Catsports/releases/tag/30.12.24
 
 Portugês Brasil:
 Catsports é um jogo que envolve dos mais variados esportes, personagens e muito mais.
