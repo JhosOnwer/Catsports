@@ -1,5 +1,5 @@
-Se você está procurando a beta mais recente, confira esse link: / If you're looking for the latest beta, check out this link:
-https://github.com/JhosOnwer/Catsports/releases/tag/15.01.25
+Ei! Catsports já foi oficialmente lançado para todos! confira nesse link: / Hey! Catsports has officially launched for everyone! Check it out at this link:
+https://scratch.mit.edu/projects/1035130832/
 
 Portugês Brasil:
 Catsports é um jogo que envolve dos mais variados esportes, personagens e muito mais.
